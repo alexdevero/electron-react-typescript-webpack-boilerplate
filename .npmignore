@@ -1,0 +1,6 @@
+__ignore__/
+docs/
+builds/
+dist/
+.editorconfig
+code-of-conduct.md
