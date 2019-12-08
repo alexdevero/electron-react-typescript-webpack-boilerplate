@@ -1,6 +1,6 @@
 {
   "name": "electron-react-typescript-webpack-boilerplate",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Minimal Electron, React, TypeScript and Webpack boilerplate to help you get started with building your next awesome app.",
   "license": "MIT",
   "private": false,
